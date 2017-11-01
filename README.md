@@ -12,4 +12,4 @@ Gridworld experiment (Figures 1 and 2)
 Run class TRLMain.java.
 
 
-Ivomar Brito Soares, britosoaresivomar@gmail.com
+Ivomar Brito Soares, ivomarbsoares@gmail.com
