@@ -1,4 +1,9 @@
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLFactory {
 
 	public static IRLObject createRLObject(String aRLObjectType){

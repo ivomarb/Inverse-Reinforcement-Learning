@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public interface IRLCell extends IRLGridComponent {
 
 	public  Integer getIndex();

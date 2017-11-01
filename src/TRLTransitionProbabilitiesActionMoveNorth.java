@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLTransitionProbabilitiesActionMoveNorth extends ARLTransitionProbabilities {
 
 
@@ -5,7 +10,6 @@ public class TRLTransitionProbabilitiesActionMoveNorth extends ARLTransitionProb
 	protected boolean getAgentStaysAtTheSameCellWithTwoSurroudingWallsWithWallAtDirectionOfAction(IRLCell aOriginCell) {
 		return aOriginCell.getNorthWall() != null && ( aOriginCell.getWestWall() != null || aOriginCell.getEastWall() != null ) ;
 	}
-
 
 	@Override
 	protected boolean getAgentStaysAtTheSameCellWithWallAtDirectionOfAction(IRLCell aOriginCell) {

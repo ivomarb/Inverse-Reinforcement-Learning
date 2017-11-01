@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLGrid extends ARLGrid{
 
 	@Override
@@ -5,7 +10,5 @@ public class TRLGrid extends ARLGrid{
 		return "ARLGrid [fNumberOfRows=" + getNumberOfRows() + ", fNumberOfColumns=" + getNumberOfColumns() + ", fCellList="
 				+ getCellList() + "]";
 	}
-	
-	
 
 }

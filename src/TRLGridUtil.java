@@ -1,5 +1,10 @@
 import java.util.List;
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLGridUtil {
 	
 	private static final TRLGridUtil sSharedInstance = new TRLGridUtil();

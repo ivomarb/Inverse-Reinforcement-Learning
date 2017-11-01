@@ -17,6 +17,11 @@ import org.apache.commons.math3.optim.linear.Relationship;
 import org.apache.commons.math3.optim.linear.SimplexSolver;
 import org.apache.commons.math3.optim.nonlinear.scalar.GoalType;
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLIRLUtil {
 
 	private static final TRLIRLUtil sSharedInstance = new TRLIRLUtil();

@@ -23,7 +23,7 @@
 
  * 
  * Thanks for your interest in this source code, you are welcome to send me any suggestion, feedback or criticism.
- * Ivomar Brito Soares, britosoaresivomar@gmail.com.
+ * Ivomar Brito Soares, ivomarbsoares@gmail.com.
 
  * @author Ivomar Brito Soares
  *

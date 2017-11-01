@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLActionMoveEast extends ARLAction {
 
 	@Override

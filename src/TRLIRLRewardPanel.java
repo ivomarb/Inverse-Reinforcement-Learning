@@ -10,6 +10,11 @@ import org.jfree.data.category.CategoryDataset;
 import org.jfree.data.category.DefaultCategoryDataset;
 
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLIRLRewardPanel extends JPanel {
 
 	private double[] fRewardFunction;

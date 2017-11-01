@@ -1,8 +1,13 @@
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLStateActionPair {
 
 	private IRLState fInitialState;
-	private Double fInitialStateValue;
+	private Double   fInitialStateValue;
 	
 	public Double getInitialStateValue() {
 		return fInitialStateValue;

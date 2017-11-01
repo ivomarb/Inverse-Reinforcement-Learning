@@ -2,6 +2,11 @@ import java.util.List;
 
 import org.apache.commons.math3.linear.RealMatrix;
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public interface IRLGrid extends IRLGridComponent{
 	public List<IRLCell> getCellList();
 

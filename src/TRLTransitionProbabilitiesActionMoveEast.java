@@ -1,10 +1,14 @@
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLTransitionProbabilitiesActionMoveEast extends ARLTransitionProbabilities {
 	
 	@Override
 	protected boolean getAgentStaysAtTheSameCellWithTwoSurroudingWallsWithWallAtDirectionOfAction(IRLCell aOriginCell) {
 		return aOriginCell.getEastWall() != null && ( aOriginCell.getNorthWall() != null || aOriginCell.getSouthWall() != null ) ;
 	}
-
 
 	@Override
 	protected boolean getAgentStaysAtTheSameCellWithWallAtDirectionOfAction(IRLCell aOriginCell) {

@@ -3,6 +3,11 @@ import java.util.Observable;
 
 import org.apache.commons.math3.linear.RealMatrix;
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public abstract class ARLAgent extends Observable implements IRLAgent {
 	
 	private IRLGrid fGrid;

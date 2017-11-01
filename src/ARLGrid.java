@@ -4,16 +4,18 @@ import java.util.Observable;
 
 import org.apache.commons.math3.linear.RealMatrix;
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public abstract class ARLGrid extends Observable implements IRLGrid {
 	
-
 	private int fNumberOfRows;
 	private int fNumberOfColumns;	
 	private List<IRLCell> fCellList = new ArrayList<IRLCell>();
 	
 	private IRLRewardFunction fRewardFunction;
-
-	
 
 	private RealMatrix fTransitionProbabilityMatrixMoveNorth;
 	private RealMatrix fTransitionProbabilityMatrixMoveEast;

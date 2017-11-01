@@ -5,10 +5,7 @@ import java.awt.Font;
 import java.awt.FontMetrics;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
-import java.awt.Point;
 import java.awt.geom.AffineTransform;
-import java.awt.geom.Path2D;
-import java.awt.geom.Point2D;
 import java.awt.geom.Rectangle2D;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -20,6 +17,11 @@ import java.util.Set;
 import javax.swing.JPanel;
 
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLGridPanel extends JPanel implements Observer {
 
 	/**

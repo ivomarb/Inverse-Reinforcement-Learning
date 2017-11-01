@@ -1,4 +1,9 @@
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public abstract class ARLAction implements IRLAction {
 
 	private String fID;

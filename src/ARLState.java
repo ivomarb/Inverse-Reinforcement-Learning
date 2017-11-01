@@ -1,14 +1,17 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public abstract class ARLState implements IRLState{
-
 	
 	private IRLCell fCell;
 	private List<IRLAction> fActionList = new ArrayList<IRLAction>();
 	private Boolean fAbsorbing = Boolean.FALSE;
 	private Boolean fInitial   = Boolean.FALSE;
-
 	
 	public IRLAction retrieveAction( String aActionID ){
 		

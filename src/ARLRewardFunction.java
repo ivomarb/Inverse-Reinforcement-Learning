@@ -3,22 +3,25 @@ import java.util.Iterator;
 import java.util.Set;
 
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public abstract class ARLRewardFunction implements IRLRewardFunction {
 
 	private HashMap<IRLState, Double> fStateRewardHashMap = new HashMap<IRLState, Double>();
 
-	
 	public double[] toArray(){
-		double[] lArray = new double[fStateRewardHashMap.size()];
-		int lIndex = 0;
-		Set<IRLState> lKeySet = fStateRewardHashMap.keySet();
-		for (Iterator lIterator = lKeySet.iterator(); lIterator.hasNext();) {
-			IRLState lState = (IRLState) lIterator.next();
-			lArray[lState.getIndex()] = fStateRewardHashMap.get(lState);
-			lIndex++;
+		double[] l_Array = new double[fStateRewardHashMap.size()];
+		
+		Set<IRLState> l_KeySet = fStateRewardHashMap.keySet();
+		for (Iterator<IRLState> l_Iterator = l_KeySet.iterator(); l_Iterator.hasNext();) {
+			IRLState lState = (IRLState) l_Iterator.next();
+			l_Array[lState.getIndex()] = fStateRewardHashMap.get(lState);
 		}
 		
-		return lArray;
+		return l_Array;
 	}
 
 

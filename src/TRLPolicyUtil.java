@@ -8,7 +8,11 @@ import org.apache.commons.math3.linear.LUDecomposition;
 import org.apache.commons.math3.linear.RealMatrix;
 import org.apache.commons.math3.linear.RealVector;
 
-
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLPolicyUtil {
 
 	private static final TRLPolicyUtil sSharedInstance = new TRLPolicyUtil();

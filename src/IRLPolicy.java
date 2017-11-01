@@ -1,6 +1,11 @@
 import java.util.HashMap;
 import java.util.List;
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public interface IRLPolicy extends IRL{
 
 	public List<TRLStateActionPair> getStateActionPairList();

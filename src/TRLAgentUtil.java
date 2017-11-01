@@ -1,6 +1,10 @@
 import org.apache.commons.math3.linear.RealMatrix;
 
-
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLAgentUtil {
 
 	private static final TRLAgentUtil sSharedInstance = new TRLAgentUtil();

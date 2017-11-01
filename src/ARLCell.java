@@ -1,4 +1,9 @@
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public abstract class ARLCell implements IRLCell {
 
 
@@ -6,8 +11,6 @@ public abstract class ARLCell implements IRLCell {
 	private Integer fRowIndex;
 	private Integer fColumnIndex;
 	
-
-
 	private IRLCell fNorthCell;	
 	private IRLCell fEastCell;	
 	private IRLCell fSouthCell;	

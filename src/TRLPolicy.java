@@ -2,6 +2,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLPolicy implements IRLPolicy {
 
 	private List<TRLStateActionPair> fStateActionPairList = new ArrayList<TRLStateActionPair>();

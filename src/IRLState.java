@@ -1,5 +1,10 @@
 import java.util.List;
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public interface IRLState extends IRL {
 
 	public IRLCell getCell();

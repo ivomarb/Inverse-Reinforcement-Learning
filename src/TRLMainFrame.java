@@ -16,6 +16,11 @@ import javax.swing.JTabbedPane;
 import javax.swing.JTextField;
 
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLMainFrame extends JFrame {
 
 	/**

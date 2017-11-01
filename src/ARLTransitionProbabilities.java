@@ -3,6 +3,11 @@ import java.util.List;
 import org.apache.commons.math3.linear.MatrixUtils;
 import org.apache.commons.math3.linear.RealMatrix;
 
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public abstract class ARLTransitionProbabilities implements IRLTransitionProbability {
 	
 	protected abstract boolean getAgentStaysAtTheSameCellWithTwoSurroudingWallsWithWallAtDirectionOfAction( IRLCell aOriginCell );
@@ -18,7 +23,6 @@ public abstract class ARLTransitionProbabilities implements IRLTransitionProbabi
 		assert Math.abs(aCorrectActionProbability + aActionNoiseProbability -1 ) < 0.00001; 
 
 		IRLGrid lGrid = aAgent.getGrid();
-		List<IRLState> lStateList = aAgent.getStateList();
 		
 		List<IRLCell> lCellList = lGrid.getCellList();
 		int lCellListSize = lCellList.size();

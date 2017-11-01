@@ -1,7 +1,11 @@
 import java.util.HashMap;
 import java.util.List;
 
-
+/**
+ * 
+ * @author Ivomar Brito Soares
+ *
+ */
 public class TRLRewardFunctionUtil {
 
 	private static final TRLRewardFunctionUtil sSharedInstance = new TRLRewardFunctionUtil();
