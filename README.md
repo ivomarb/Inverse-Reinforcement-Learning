@@ -1,9 +1,12 @@
 
-Gridworld:
+Gridworld (algorithms implemented): </br >
 
-- Value Iteration.
-- Algorithms for inverse reinforcement learning.
-AY Ng, SJ Russell - Icml, 2000 - ai.stanford.edu.
+- Value Iteration [**1**].</br >
+- Inverse Reinforcement Learning [**2**] </br > 
+
+**References**:</br >
+[**1**] Reinforcement Learning book, Richard S. Sutton and Andrew G. Barto.
+[**2**] Algorithms for inverse reinforcement learning. AY Ng, SJ Russell - Icml, 2000 - ai.stanford.edu.
 
 Article:
 http://ai.stanford.edu/~ang/papers/icml00-irl.pdf
