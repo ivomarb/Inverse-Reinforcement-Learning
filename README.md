@@ -5,7 +5,7 @@ Gridworld (algorithms implemented): </br >
 - Inverse Reinforcement Learning [**2**] </br > 
 
 **References**:</br >
-[**1**] Reinforcement Learning book, Richard S. Sutton and Andrew G. Barto.
+[**1**] Reinforcement Learning book, Richard S. Sutton and Andrew G. Barto.</br >
 [**2**] Algorithms for inverse reinforcement learning. AY Ng, SJ Russell - Icml, 2000 - ai.stanford.edu.
 
 Article:
