@@ -27,5 +27,6 @@ Ivomar Brito Soares, ivomarbsoares@gmail.com
 **Step 4**: Run action Reinforcement Learning 1. Value Iteration.</br >
 ![irl6](https://user-images.githubusercontent.com/33180566/32405227-23a66220-c140-11e7-8f61-2d42044e80da.PNG)</br >
 **Step 5**: Run action Reinforcement Learning 2. Inverse Reinforcement Learning.</br >
+![irl8](https://user-images.githubusercontent.com/33180566/32405973-478f4b4e-c14e-11e7-9e6f-8e72dafbbe4f.JPG)</br>
 ![irl7](https://user-images.githubusercontent.com/33180566/32405236-3e895fa2-c140-11e7-9dce-d7e0eae00fe1.PNG)</br >
 
