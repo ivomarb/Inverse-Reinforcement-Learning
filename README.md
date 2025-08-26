@@ -33,7 +33,7 @@ Run class TRLMain.java.
 
 # References
 
-[**1**] Reinforcement Learning book, Richard S. Sutton and Andrew G. Barto.</br >
+[**1**] [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html), Richard S. Sutton and Andrew G. Barto.</br >
 [**2**] [Algorithms for Inverse Reinforcement Learning](http://ai.stanford.edu/~ang/papers/icml00-irl.pdf). AY Ng, SJ Russell - Icml, 2000 - ai.stanford.edu.
 
 
