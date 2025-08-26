@@ -1,4 +1,4 @@
-
+<h1>Algorithms for Inverse Reinforcement Learning</h1>
 Gridworld (algorithms implemented): </br >
 
 - Value Iteration [**1**].</br >
