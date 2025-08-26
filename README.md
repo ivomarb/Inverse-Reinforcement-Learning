@@ -6,7 +6,7 @@
 - Inverse Reinforcement Learning [[**2**](#References)] </br > 
 
 ![rl](https://user-images.githubusercontent.com/33180566/32406065-176535da-c150-11e7-8a9b-107518775755.jpg)</br >
-Reinforcement Learning book.
+[Reinforcement Learning book](#References)
 
 # Step-by-step Guide
 
