@@ -2,7 +2,7 @@
 
 # Gridworld Algorithms Implemented
 
-- Value Iteration [**1**]</br >
+- Value Iteration [[**1**](#References)]</br >
 - Inverse Reinforcement Learning [**2**] </br > 
 
 ![rl](https://user-images.githubusercontent.com/33180566/32406065-176535da-c150-11e7-8a9b-107518775755.jpg)</br >
