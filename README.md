@@ -8,7 +8,7 @@
       <a href="#gridworld-algorithms-implemented">Gridworld Algorithms Implemented</a>
     </li>
     <li>
-      <a href="#step-by-step-guide">Step by Step Guide 💗</a>
+      <a href="#step-by-step-guide">Step by Step Guide</a>
     </li>
     <li>
       <a href="#references">References</a>
@@ -34,7 +34,7 @@ It allows you define any gridworld environment similar to what you find in [[**2
 - Value Iteration [[**1**](#References)]</br >
 - Inverse Reinforcement Learning [[**2**](#References)] </br > 
 
-# Step by Step Guide 💗
+# Step by Step Guide
 
 Gridworld experiment (Figures 1 and 2 of article)
 Run class TRLMain.java or execute the JAR file: java -jar TRLMain.jar.
