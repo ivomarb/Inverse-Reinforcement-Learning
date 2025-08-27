@@ -45,7 +45,7 @@ It allows you define any gridworld environment similar to what you find in [[**2
 # Step by Step Guide
 
 Gridworld experiment (Figures 1 and 2 of article)
-Run class TRLMain.java or execute the JAR file: java -jar TRLMain.jar.
+Run class TRLMain.java or execute the JAR file: java -jar TRLMain-1.0.0.jar.
 
 **Step 1**: Run TRLMain. A window with a standard 5x5 square gridworld appears.</br >
 ![irl1](https://user-images.githubusercontent.com/33180566/32405201-66584008-c13f-11e7-91a3-67b773d82e76.PNG)</br >
