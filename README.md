@@ -1,5 +1,24 @@
 <h1>Algorithms for Inverse Reinforcement Learning</h1>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#gridworld-algoritms-implemented">Gridworld Algorithms Implemented</a>
+    </li>
+    <li>
+      <a href="#set-by-step-guide">Step-by-step Guide 💗</a>
+    </li>
+    <li>
+      <a href="#references">References</a>
+    </li>
+    <li>
+      <a href="#license">License</a>
+    </li>
+  </ol>
+</details>
+
 This repo implements the following algorithms in a Java application with a GUI: 
 
 - Value Iteration [[**1**](#References)]</br>
