@@ -1,5 +1,13 @@
 <h1>Algorithms for Inverse Reinforcement Learning</h1>
 
+![GitHub contributors](https://img.shields.io/github/contributors/ivomarb/Inverse-Reinforcement-Learning?color=ffcc66&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/ivomarb/Inverse-Reinforcement-Learning?color=ffcc66&style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/ivomarb/Inverse-Reinforcement-Learning?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
+[![GitHub issues](https://img.shields.io/github/issues/ivomarb/Inverse-Reinforcement-Learning?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
+[![GitHub license](https://img.shields.io/github/license/ivomarb/Inverse-Reinforcement-Learning?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ivomarb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/ivomarbrito)
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
