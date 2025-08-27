@@ -5,10 +5,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#gridworld-algoritms-implemented">Gridworld Algorithms Implemented</a>
+      <a href="#gridworld-algorithms-implemented">Gridworld Algorithms Implemented</a>
     </li>
     <li>
-      <a href="#set-by-step-guide">Step-by-step Guide 💗</a>
+      <a href="#step-by-step-guide">Step-by-step Guide 💗</a>
     </li>
     <li>
       <a href="#references">References</a>
