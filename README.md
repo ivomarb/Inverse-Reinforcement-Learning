@@ -15,7 +15,7 @@ It allows you define any gridworld environment similar to what you find in [[**2
 - Value Iteration [[**1**](#References)]</br >
 - Inverse Reinforcement Learning [[**2**](#References)] </br > 
 
-# Step-by-step Guide
+# Step-by-step Guide 💗
 
 Gridworld experiment (Figures 1 and 2 of article)
 Run class TRLMain.java or execute the JAR file: java -jar TRLMain.jar.
